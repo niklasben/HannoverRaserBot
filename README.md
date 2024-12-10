@@ -1,2 +1,2 @@
 # HannoverRaserBot
-A Twitter Bot
+A ~~Twitter~~ Bluesky Bot based on https://github.com/mattsches/WiesbadenRaserBot
